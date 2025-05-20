@@ -54,23 +54,23 @@ This data analytics project involves:
 
 ## Analysis Pipeline
 
-### Day 1–33: SQL Analysis
+### SQL Analysis
 - Table creation, data import, and validation
 - Revenue trend analysis, category performance, customer ranking
 - Payment behavior and regional breakdowns
 
-### Day 34–37: Python Analysis
+### Python Analysis
 - Data transformation and cleaning
 - Exploratory Data Analysis (EDA)
 - Feature engineering and segmentation
 - Visual storytelling using `matplotlib` and `seaborn`
 
-### Day 38–39: Power BI Dashboards
+### Power BI Dashboards
 - Building interactive visuals for stakeholders
 - KPI summaries, regional maps, discount trends
 - Segment-based insights for campaign planning
 
-### Day 40: Final Reporting
+### Final Reporting
 - Business recommendations
 - Deliverables: Power BI report, SQL scripts, Python notebook
 
@@ -111,5 +111,5 @@ This data analytics project involves:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-sales-analysis.git
+git clone https://github.com/ayeni01/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
