@@ -90,11 +90,17 @@ This data analytics project involves:
 
 > Dashboards were designed around four core views:
 1. **Executive Overview**
-2. **Product & Category Analysis**
-3. **Customer Segmentation**
-4. **Regional & Discount Patterns**
+![Executive Summary](https://github.com/user-attachments/assets/a3ff5eaf-0634-46cd-b7f8-42900ff89c50)
 
-*(Screenshots and `.pbix` file can be found in the `/powerbi` folder)*
+3. **Product & Category Analysis**
+![Customer and Product Behaviour](https://github.com/user-attachments/assets/5c12aee7-8323-4a27-8e86-cc9485eec7fd)
+
+4. **Customer Segmentation**
+
+5. **Regional & Discount Patterns**
+
+
+[Dashboard](https://github.com/Ayeni01/Global-E-Commerce-Analysis/blob/main/Global%20E-Commerce%20Dashboard.pbix)
 
 ---
 
